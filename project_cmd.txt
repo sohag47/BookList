@@ -1,0 +1,18 @@
+﻿# project Commend 
+# Backend , Database, API 
+1. npm init 
+2. npm i express        # Node.js Frmaework 
+3. npm i mongoose       # Mongodb Database 
+4. npm i body-parser    # Allows us to get the data throughout the request
+5. npm i bcryptjs       # Is a password hashing function designed by Niels Provos and David Mazières
+6. npm i validation     # (as its name implies) is used for validation
+7. npm i -D nodemon     # Server restert automatically
+8. npm i config         
+9. npm install cors
+
+# FrontEnd React 
+1. npx create-react-app booklist
+2. npm install  --save react-router-dom
+3. npm install --save axios
+
+npm run dev
